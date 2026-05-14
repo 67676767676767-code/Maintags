@@ -2,9 +2,15 @@
   "tags": [
     {
       "userId": 10927326118,
-      "rank": "67",
-      "color": [108, 0, 120],
-      "strokeColor": [0, 0, 0]
+      "rank": "HI",
+      "color": [255, 0, 0],
+      "strokeColor": [100, 0, 0]
+    },
+    {
+      "userId": 67676767676767,
+      "rank": "LYNX DEVELOPER",
+      "color": [0, 255, 255],
+      "strokeColor": [0, 80, 80]
     }
   ]
 }
