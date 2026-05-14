@@ -4,22 +4,19 @@
       "userId": 10927326118,
       "rank": "LYNX OWNER",
       "videoId": "rbxassetid://5608327215",
-      "color": [255, 255, 255],
-      "strokeColor": [255, 255, 255]
-    },
-    {
-      "userId": 76764685576,
-      "rank": "CO OWNER",
-      "videoId": "rbxassetid://5608327215",
-      "color": [255, 0, 255],
-      "strokeColor": [180, 0, 255]
+      "rankColor": [255, 0, 0],
+      "nameColor": [255, 255, 255],
+      "logoColor": [255, 0, 0],
+      "strokeColor": [150, 0, 0]
     },
     {
       "userId": 1234567,
-      "rank": "LYNX ADMIN",
+      "rank": "ADMIN",
       "logoId": "rbxassetid://138670656825161",
-      "color": [255, 0, 0],
-      "strokeColor": [100, 0, 0]
+      "rankColor": [0, 255, 255],
+      "nameColor": [0, 200, 200],
+      "logoColor": [0, 255, 255],
+      "strokeColor": [0, 100, 100]
     }
   ]
 }
